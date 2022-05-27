@@ -1,7 +1,7 @@
 ![MasterHead](https://www.qamadness.com/wp-content/themes/qamadness/dist/images/blog-gifs/Hiring-manager-5sec.gif)
 <h1 align="center">Hi 👋, I'm SIVAPRIYA S</h1>
 <h3 align="center">To obtain a professional career with a challenging position where I can showcase my engineering skill to improve the management with modern technologies and also to be friendly with the environment</h3>
-<img align="right" alt="Coding" width="400" src=("https://i.pinimg.com/originals/a7/43/10/a74310c594de201f69ab756ef825eda2.gif")>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a7/43/10/a74310c594de201f69ab756ef825eda2.gif">
 - 🔭 I’m currently working on **MathWorks Minidrone**
 
 - 💬 Ask me about **MEASURING ,CONTROLLING**
